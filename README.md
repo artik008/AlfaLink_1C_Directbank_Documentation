@@ -6,6 +6,10 @@
 
 ##  Introduction
 
+## Test
+
+
+
 The document describes the rules an electornic document management system for corporations and banks. That is necessary for making payments, currency conversion, currency control functions and providing banks with reports to corporations related to the above services and products based on the international standard ISO 20022.
 
 
